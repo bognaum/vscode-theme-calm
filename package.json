@@ -1,0 +1,21 @@
+{
+    "name": "calm-theme-from-bn",
+    "displayName": "Calm theme from BN",
+    "description": "The Calm color theme from BN.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.67.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Calm from BN",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Calm from BN-color-theme.json"
+            }
+        ]
+    }
+}
