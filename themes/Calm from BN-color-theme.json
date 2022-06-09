@@ -2,7 +2,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"foreground": "#E2E2E5",
+				"foreground": "#D2D2D5",
 			}
 		},
 		{
@@ -25,7 +25,7 @@
 			"scope": "entity",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFFFFF"
+				"foreground": "#DDD"
 			}
 		},
 		{
@@ -64,7 +64,7 @@
 			"name": "Variable",
 			"scope": "variable",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#D2D2D5"
 			}
 		},
 		{
@@ -145,7 +145,7 @@
 			"name": "Variable",
 			"scope": "string variable",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#D2D2D5"
 			}
 		},
 		{
@@ -153,7 +153,7 @@
 			"scope": "support.function",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FFFFFF"
+				"foreground": "#DDD"
 			}
 		},
 		{
@@ -161,7 +161,7 @@
 			"scope": "support.constant",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#FFFFFF"
+				"foreground": "#DDD"
 			}
 		},
 		{
@@ -229,7 +229,7 @@
 			"name": "CSS pseudo-class",
 			"scope": "meta.selector.css entity.other.attribute-name.tag.pseudo-class",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#D2D2D5"
 			}
 		},
 		{
@@ -250,7 +250,7 @@
 			"name": "CSS property-name:",
 			"scope": "support.type.property-name.css",
 			"settings": {
-				"foreground": "#E2E2E5"
+				"foreground": "#D2D2D5"
 			}
 		},
 		{
@@ -291,7 +291,8 @@
 	"colors": {
 		"editor.background": "#202020",
 		"editorCursor.foreground": "#aaa",
-		"editor.foreground": "#E2E2E5",
+		"editor.foreground": "#D2D2D5",
+		// "foreground": "#f00",
 		"editorWhitespace.foreground": "#555",
 		"editor.lineHighlightBackground": "#2d2d2d",
 		"editor.selectionBackground": "#393946",
