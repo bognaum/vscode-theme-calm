@@ -2,12 +2,7 @@
 	"tokenColors": [
 		{
 			"settings": {
-				"background": "#202020",
 				"foreground": "#E2E2E5",
-				"selectionBorder": "#888",
-				"selectionCornerStyle": "square",
-				"misspelling": "#6ff",
-				"highlight": "#6ff"
 			}
 		},
 		{
