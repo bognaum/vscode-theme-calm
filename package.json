@@ -2,8 +2,9 @@
     "name": "calm-theme-from-bn",
     "displayName": "Calm theme from BN",
     "description": "The Calm color theme from BN.",
-    "icon": "IMG/icon.jpg",
+    "publisher": "Bognaum",
     "version": "0.0.1",
+    "icon": "IMG/icon.jpg",
     "engines": {
         "vscode": "^1.67.0"
     },
