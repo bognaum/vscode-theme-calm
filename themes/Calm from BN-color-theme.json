@@ -72,8 +72,7 @@
 			"scope": "invalid.deprecated",
 			"settings": {
 				"fontStyle": "bold underline",
-				"foreground": "#202020",
-				"background": "#777777"
+				"foreground": "#f59",
 			}
 		},
 		{
@@ -81,7 +80,7 @@
 			"scope": "invalid.illegal",
 			"settings": {
 				"background": "#777777",
-				"foreground": "#202020",
+				"foreground": "#f59",
 				"fontStyle": "bold"
 			}
 		},
