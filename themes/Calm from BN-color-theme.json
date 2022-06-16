@@ -1,11 +1,6 @@
 {
 	"tokenColors": [
 		{
-			"settings": {
-				"foreground": "#D2D2D5",
-			}
-		},
-		{
 			"name": "Comment",
 			"scope": "comment",
 			"settings": {
@@ -79,31 +74,15 @@
 			"name": "Invalid – Illegal",
 			"scope": "invalid.illegal",
 			"settings": {
-				"background": "#777777",
 				"foreground": "#f59",
 				"fontStyle": "bold"
 			}
-		},
-		{
-			"name": "-----------------------------------",
-			"settings": {}
 		},
 		{
 			"name": "Keyword",
 			"scope": "keyword.declaration",
 			"settings": {
 				"fontStyle": "italic"
-			}
-		},
-		{
-			"name": "-----------------------------------",
-			"settings": {}
-		},
-		{
-			"name": "Embedded Source",
-			"scope": "text source",
-			"settings": {
-				"background": "#292929"
 			}
 		},
 		{
