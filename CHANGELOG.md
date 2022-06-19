@@ -4,6 +4,8 @@ All notable changes to the "calm-theme-from-bn" extension will be documented in 
 
 Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
 
-## [Unreleased]
+## [1.0.2]
+- Reduced the border color of selection matching words
 
+## [1.0.0]
 - Initial release

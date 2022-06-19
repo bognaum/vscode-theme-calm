@@ -3,7 +3,7 @@
     "displayName": "Calm theme from BN",
     "description": "The Calm color theme from BN.",
     "publisher": "Bognaum",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "repository": {
         "type": "git",
         "url": "https://github.com/bognaum/vscode-theme-calm.git"
